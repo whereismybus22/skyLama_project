@@ -61,7 +61,7 @@ export function CreateProject() {
                 placeholder="Project name"
                 value={projectName}
                 onChange={(e) => setProjectName(e.target.value)}
-                className=" w-[35vw] "
+                className=" w-[25vw] "
               />
             </div>
           </div>
