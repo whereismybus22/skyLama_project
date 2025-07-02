@@ -46,7 +46,7 @@ export function CreateProject() {
         </Button>
       </DialogTrigger>
 
-      <DialogContent className="w-[50vw] h-[30vh] ">
+      <DialogContent className="w-[70vw] h-[30vh] ">
         <form onSubmit={handleSubmit}>
           <DialogHeader className=" w-full h-[5vh]  " >
             <DialogTitle>Create Project</DialogTitle>
